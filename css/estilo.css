@@ -1,0 +1,10 @@
+#titulo { color: fuchsia; }
+.subtitulo { color: blue; }
+.contenido { color: grey; }
+.lista { color: purple; }
+body {font-size: 20px ; background-color: lightblue; }
+h1 {text-align: center; text-decoration: underline;}
+h2 {text-align: justify; text-decoration: underline;}
+p {text-align: justify;}
+li {text-align: left;}
+img{width: 200px ; height: 180px ; }
