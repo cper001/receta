@@ -1,0 +1,48 @@
+#titulo { color: lightpink; }
+.tgalesa{width: 200px ; height: 180px ; margin-left: 42%;}
+.iconosfooter {margin-left: 40%;}
+.iconos {width: 100px ; height: 100px ; }
+.icono {width: 100px ; height: 100px ; }
+.tgalesa{width: 200px ; height: 180px ; margin-left: 42%;}
+.potrero {text-align: center; font-size: 20px}
+p {text-align: center; font-size: 20px}
+h1 {text-align: center; text-decoration: underline; font-style: italic;}
+body {
+  background-color: lightyellow;
+}
+a {text-align: center; font-size: 20px; }
+.inicio {text-align: center; font-size: 20px; margin-left: 47%;}
+footer {background-color:grey; }
+header {background-color:lightblue; }
+section.formulario {
+  background-color: lightpink;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+footer {clear: both;}
+.whatsapp {position: fixed;
+          top: 75%;
+        right: 1% ;}
+
+.potrero:hover
+{          font-style: oblique;
+          font-size: 30px;
+          background-color: green;
+        }
+
+.inicio:hover {
+          font-style: italic;
+          font-size: 60px;
+          background-color: fuchsia;
+        }
+
+.tgalesa:hover {
+width: width: 300px ; height: 250px ; margin-left: 42%;
+}
+.iconos:hover {width: 150px ; height: 150px ; }
+
+.boton:hover {
+  background-color: yellow;
+}

@@ -16,6 +16,10 @@ nav {text-align: center;}
 .click {text-align: center; }
 iframe {margin-left: 35%;}
 .iconosfooter {margin-left: 40%;}
+.potrero {text-align: center; font-size: 20px}
+.contact {
+  text-align: center; font-size: 20px; margin-left: 40%;
+}
 
 
 header {background-color:lightblue; }
@@ -48,3 +52,41 @@ footer {clear: both;}
 .whatsapp {position: fixed;
           top: 75%;
         right: 1% ;}
+.nav:hover {
+  background-color: lightyellow;
+  font-size: 30px;
+}
+.contact:hover {
+  font-style: italic;
+  font-size: 60px;
+  background-color: fuchsia;
+}
+.potrero:hover{
+  font-style: oblique;
+  font-size: 30px;
+  background-color: green;
+}
+
+.tgalesa:hover {
+width: width: 300px ; height: 250px ; margin-left: 42%;
+}
+.iconos:hover {width: 150px ; height: 150px ; }
+.subtitulo:hover {
+  font-style: bold;
+  font-size: 60px;
+  background-color: lightyellow;
+}
+.contenido:hover{
+  background-color: lightpink;
+
+}
+
+.contact::before {
+  content: "--->";
+  color: red;
+}
+
+.contact::after {
+  content: "<---";
+  color: red;
+}
